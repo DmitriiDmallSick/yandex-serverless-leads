@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ydb-sdk": "^5.11.1",
+    "@yandex-cloud/nodejs-sdk": "latest"
+  }
+}
